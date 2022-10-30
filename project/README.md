@@ -15,3 +15,4 @@ To accomplish this, you will implement:
 * Best trajectory selection though a cost function evaluation. This cost function will mainly perform a collision check and a proximity check to bring cost higher as we get closer or collide with objects but maintaining a bias to stay closer to the lane center line.
 
 
+![alt text](https://github.com/zbakin/Udacity_Self_Driving_Planning/blob/master/project/pic.jpeg)
